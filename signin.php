@@ -74,7 +74,6 @@ a {
  </div>
  <input type="submit" class="btn btn-success btn-block" value="Login"/>
 <center><span style="color:white;font-weight:bold">Don't have an account?</span><a href='signup.php'><strong><big>sign up</a></center>
-<tr><td><a href="file:///C:/Users/15-R204TU/Desktop/sweta/templates/mypage.html"><center><h2>GO FOR BOOKS</h2></center></a></td></tr>
  </form>
  <?php
 session_start();
